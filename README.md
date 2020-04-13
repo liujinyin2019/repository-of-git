@@ -1,3 +1,2 @@
-# repository-of-git
-# 论文程序准备
-## 和的我
+# README文件的编辑方法
+> 标题符号选择
